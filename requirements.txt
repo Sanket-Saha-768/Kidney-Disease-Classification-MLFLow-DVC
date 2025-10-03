@@ -1,0 +1,35 @@
+# Core ML/DS libraries
+pandas 
+numpy
+scipy
+matplotlib
+seaborn
+tqdm
+joblib
+
+# Configuration & utilities
+python-box==6.0.2
+pyYAML
+types-PyYAML
+ensure==1.0.2
+
+# Experiment tracking & pipelines
+dvc
+mlflow>=2.17.0
+
+# Development tools
+notebook
+
+# Web app
+Flask
+Flask-Cors
+
+# File downloads
+gdown
+
+# Deep Learning (PyTorch stack)
+# torch==2.8.0
+# torchvision==0.23.0
+
+# Editable install for local src/ package
+-e .
