@@ -6,8 +6,6 @@ for ML/DL projects (with config, src, tests, data, etc.).
 """
 
 
-
-
 import os
 from pathlib import Path
 import logging
